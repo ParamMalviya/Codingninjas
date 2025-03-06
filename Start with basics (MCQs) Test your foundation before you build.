@@ -1,0 +1,102 @@
+1) - What type of coding language is c++?
+a) - procedural
+b) - object oriented
+c) - functional
+d) - scripting
+Ans- a
+
+Problem statement
+2) What is a sparse graph?
+Options: Pick one correct answer from below
+
+A graph with many edges
+
+Few edges relative to vertices
+
+All vertices fully connected
+
+A graph with self-loops
+Solution description
+A sparse graph is a type of graph in which there are relatively few edges compared to the total number of vertices. In other words, it is a graph where the edge density is low. In a sparse graph, most pairs of vertices are not directly connected by an edge.
+
+3)Problem statement
+What is the time complexity of the push and pop operations in a queue implemented as an array?
+Options: Pick one correct answer from below
+
+O(n)
+
+O(logN)
+
+O(1)
+
+O(NlogN)
+
+4)Problem statement
+How many children does a binary tree have?
+Options: Pick one correct answer from below
+
+2
+
+any number of children
+
+0 or 1 or 2 ---
+
+0 or 1
+
+5) Problem statement
+What is the range of values that can be represented by the "byte" data type?
+
+-128 to 255
+
+-128 to 256
+
+-128 to 127---
+
+-127 to 128
+
+6)Problem statement
+Consider the string s = “acehlpwxzz”. What is the time complexity of searching any character in the given string?
+
+Linear
+
+Logarithmic
+
+Constant
+
+None of these
+Solution description
+For the given sorted string s = "acehlpwxzz", the time complexity of searching for any character is O(logn), where n is the length of the string.
+This is because you can use binary search, which is efficient for sorted data. Binary search divides the search interval in half each time, resulting in a logarithmic time complexity.
+
+7)Which operation is not supported by a binary search tree (BST)?
+
+Insertion
+
+Deletion
+
+Searching
+
+Random Access
+
+
+Problem statement
+User perform following operations on stack of size 5 then -
+
+push(1);
+pop();
+push(2);
+push(3);
+pop();
+push(2);
+pop();
+pop();
+push(4);
+pop();
+pop();
+push(5);
+Which of the following is correct statement for stack in DSA?
+
+A   Stack Operations will be performed Smoothly
+B   Underflow Occures
+C   Overflow Occures
+D   None of these
